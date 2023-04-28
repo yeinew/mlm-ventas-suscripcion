@@ -10,7 +10,7 @@ CURSOS
 
 		<div class="row video1">
 			
-			<div class="col-12 col-lg-5 mt-lg-5 p-1 p-lg-5 bg-white">
+			<div class="col-12 col-lg-5 mt-lg-5 p-1 p-lg-5 bg-black">
 				
 				<h3 class="text-center text-lg-left">Lorem ipsum dolor sit amet, consectrtur</h3>
 
@@ -20,7 +20,7 @@ CURSOS
 
 			</div>
 
-			<div class="col-12 col-lg-7 p-2 p-lg-5 bg-white">
+			<div class="col-12 col-lg-7 p-2 p-lg-5 bg-black">
 				
 				<video width="100%" poster="img/video01.jpg">
 					
@@ -36,7 +36,7 @@ CURSOS
 
 		<div class="row video2">
 						
-			<div class="d-none d-lg-block col-12 col-lg-7 p-2 p-lg-5 bg-white">
+			<div class="d-none d-lg-block col-12 col-lg-7 p-2 p-lg-5 bg-black">
 				
 				<video width="100%" poster="img/video02.jpg">
 					
@@ -46,7 +46,7 @@ CURSOS
 
 			</div>
 
-			<div class="col-12 col-lg-5 mt-lg-5 p-1 p-lg-5 bg-white">
+			<div class="col-12 col-lg-5 mt-lg-5 p-1 p-lg-5 bg-black">
 				
 				<h3 class="text-center text-lg-right">Lorem ipsum dolor sit amet, consectrtur</h3>
 
@@ -56,7 +56,7 @@ CURSOS
 
 			</div>
 
-			<div class="d-block d-lg-none col-12 col-lg-7 p-2 p-lg-5 bg-white">
+			<div class="d-block d-lg-none col-12 col-lg-7 p-2 p-lg-5 bg-black">
 				
 				<video width="100%" poster="img/video02.jpg">
 					
@@ -72,7 +72,7 @@ CURSOS
 
 		<div class="row video3">
 			
-			<div class="col-12 col-lg-5 mt-lg-5 p-1 p-lg-5 bg-white">
+			<div class="col-12 col-lg-5 mt-lg-5 p-1 p-lg-5 bg-black">
 				
 				<h3 class="text-center text-lg-left">Lorem ipsum dolor sit amet, consectrtur</h3>
 
@@ -82,7 +82,7 @@ CURSOS
 
 			</div>
 
-			<div class="col-12 col-lg-7 p-2 p-lg-5 bg-white">
+			<div class="col-12 col-lg-7 p-2 p-lg-5 bg-black">
 				
 				<video width="100%" poster="img/video03.jpg">
 					

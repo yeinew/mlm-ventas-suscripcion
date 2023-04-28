@@ -2,7 +2,7 @@
 FOOTER
 ======================================-->
 
-<footer class="container-fluid bg-dark contactenos" id="contactenos">
+<footer class="container-fluid contact contactenos" id="contactenos">
 	
 	<div class="container">
 		

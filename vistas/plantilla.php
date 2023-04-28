@@ -16,7 +16,7 @@ $ruta = controladorRuta::ctrRuta();
 
 	<base href="vistas/">
 
-	<link rel="icon" href="img/icono.png">
+	<link rel="icon" href="img/iconometa.png">
 
 	<!--=====================================
 	VÍNCULOS CSS
